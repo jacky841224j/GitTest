@@ -1,2 +1,4 @@
 Edit Test
+<<<<<<< HEAD
 LocateLocateLocate
+
